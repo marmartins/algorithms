@@ -3,6 +3,10 @@ package com.handcode.dmoj;
 import java.util.Scanner;
 
 //lkp18c2p1
+/**
+ * @{see https://dmoj.ca/problem/lkp18c2p1}
+ * This problem input is hard to understand when compared with the text problem description.
+ * */
 public class FoodLines_lkp18c2p1 {
 
     private static final int MAX_LINE_SIZE = 100;
